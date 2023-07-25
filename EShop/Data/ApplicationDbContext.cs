@@ -10,6 +10,7 @@ namespace EShop.Data
 
         }
         public DbSet<Category> Categories { get; set; }
+
     }
 
 }
